@@ -43,14 +43,14 @@ First star & Fork the repo using the button below!
 ### 2. Get Session ID
 
 ### ❄  PORTAL CODE
-[![PORTAL_CODE](https://img.shields.io/badge/PORTAL_CODE-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://iceback-xmd-globaltechkings-takanopisa.onrender.com/)
+[![PORTAL_CODE](https://img.shields.io/badge/PORTAL_CODE-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://crispystorm-xmd-globaltechkings-takanopisa.onrender.com/)
 
 
 #### ❄  OPTION ONE
-[![PAIR_CODE_1](https://img.shields.io/badge/PAIR_CODE_1-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://iceback-xmd-globaltechkings-takanopisa.onrender.com/code)
+[![PAIR_CODE_1](https://img.shields.io/badge/PAIR_CODE_1-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://crispystorm-xmd-globaltechkings-takanopisa.onrender.com/code)
 
 #### ❄  OPTION TWO
-[![PAIR_CODE_2](https://img.shields.io/badge/PAIR_CODE_2-FF00AA?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://iceback-xmd-globaltechkings-takanopisa.onrender.com/scan)
+[![PAIR_CODE_2](https://img.shields.io/badge/PAIR_CODE_2-FF00AA?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://crispystorm-xmd-globaltechkings-takanopisa.onrender.com/scan)
 
 > Connection issues may require VPN activation.
 
