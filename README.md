@@ -12,7 +12,7 @@
 
 ![Boiastro17](https://files.catbox.moe/lqgvf8.jpg)
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+ICEBACK+XMD+IS+READY;TO+RULE+ON+WHATSAPP+AGAIN" alt="Footer Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+CRISPYSTORM+XMD+IS+READY;TO+RULE+ON+WHATSAPP+AGAIN" alt="Footer Animation">
 </h3>
 
 
@@ -36,7 +36,7 @@
 
 First star & Fork the repo using the button below!
 
-[![FORK_REPOSITORY](https://img.shields.io/badge/FORK_REPOSITORY-FF5500?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/GLOBALTECHKINGS/ICEBACK-XMD/fork)
+[![FORK_REPOSITORY](https://img.shields.io/badge/FORK_REPOSITORY-FF5500?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/GLOBALTECHKINGS/CRISPYSTORM-XMD/fork)
 
 ---
 
@@ -67,7 +67,7 @@ First star & Fork the repo using the button below!
 
 | Koyeb | Railway |
 |-------|---------|
-| [![Koyeb](https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000)](https://app.koyeb.com/services/deploy?type=git&repository=GLOBALTECHKINGS/ICEBACK-XMD) | [![Railway](https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000)](https://railway.app/new) |
+| [![Koyeb](https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000)](https://app.koyeb.com/services/deploy?type=git&repository=GLOBALTECHKINGS/CRISPYSTORM-XMD) | [![Railway](https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000)](https://railway.app/new) |
 
 | Render | Netlify |
 |--------|---------|
