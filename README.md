@@ -18,7 +18,7 @@
 
 
 <p align="center">
-  <img src="https://files.catbox.moe/d1dq22.HTML" height="40" width="100%">
+  <img src="https://files.catbox.moe/ljwvvl.jpg" height="40" width="100%">
 </p>
 
 
@@ -36,7 +36,7 @@
 
 First star & Fork the repo using the button below!
 
-[![FORK_REPOSITORY](https://img.shields.io/badge/FORK_REPOSITORY-FF5500?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/GLOBALTECHKINGS/CRISPYSTORM-XMD/fork)
+[![FORK_REPOSITORY](https://img.shields.io/badge/FORK_REPOSITORY-FF5500?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/boiastro17/bug-md/fork)
 
 ---
 
@@ -127,7 +127,7 @@ FOLLOW FOR UPDATES
 </h3>
 
 <p align="center">
-  <img src="https://files.catbox.moe/z5dclt.html" height="40" width="100%">
+  <img src="https://files.catbox.moe/ljwvvl.jpg" height="40" width="100%">
 </p>
 
 BESIDES THIS BOT WHICH ONE WOULD YOU BEATS IT
@@ -135,6 +135,6 @@ BESIDES THIS BOT WHICH ONE WOULD YOU BEATS IT
 </h3>
 
 <p align="center">
-  <img src="https://files.catbox.moe/z5dclt.html" height="40" width="100%">
+  <img src="https://files.catbox.moe/ljwvvl.jpg" height="40" width="100%">
 </p>
 
