@@ -22,7 +22,7 @@
 </p>
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=110&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=ICEBACK-XMD)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=110&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=CRISPYLORD-XMD)
 
 <p align="center">
   <img src="https://files.catbox.moe/d1dq22.HTML" height="40" width="100%">
