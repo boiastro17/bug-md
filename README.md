@@ -127,7 +127,7 @@ FOLLOW FOR UPDATES
 </h3>
 
 <p align="center">
-  <img src="https://files.catbox.moe/ljwvvl.jpg" height="40" width="100%">
+  <img src="https://files.catbox.moe/z5dclt.html" height="40" width="100%">
 </p>
 
 BESIDES THIS BOT WHICH ONE WOULD YOU BEATS IT
@@ -135,6 +135,6 @@ BESIDES THIS BOT WHICH ONE WOULD YOU BEATS IT
 </h3>
 
 <p align="center">
-  <img src="https://files.catbox.moe/ljwvvl.jpg" height="40" width="100%">
+  <img src="https://files.catbox.moe/z5dclt.html" height="40" width="100%">
 </p>
 
